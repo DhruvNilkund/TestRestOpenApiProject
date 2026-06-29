@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">httpAccount</value>
+  <value name="node_nsName">http.connection:httpConnection</value>
+  <value name="node_pkg">RestOpenApi</value>
+  <value name="is_public">false</value>
+  <value name="assetId">RestOpenApi.http.connection:httpConnection</value>
+  <value name="connectionName">httpConnection</value>
+  <value name="auth">bearer</value>
+  <null name="checkCRL"/>
+  <null name="cipherSuites"/>
+  <value name="connectTimeout">300000</value>
+  <null name="followRedirect"/>
+  <null name="hostNameVerification"/>
+  <value name="keepAliveTimeout">180</value>
+  <null name="keyAlias"/>
+  <null name="keyStoreAlias"/>
+  <value name="maxKeepAliveConnections">0</value>
+  <value name="newSession">no</value>
+  <null name="pass"/>
+  <value name="timeout">300000</value>
+  <value name="token">wm.is.admin.RestOpenApi.http.connection:httpConnection.token</value>
+  <null name="trustStore"/>
+  <value name="url">https://petstore3.swagger.io/api/v3/openapi.json</value>
+  <null name="user"/>
+</Values>
