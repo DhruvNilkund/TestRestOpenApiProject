@@ -13,7 +13,7 @@
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
-  <value name="reloadWithDependentPackage">yes</value>
+  <value name="reloadWithDependentPackage">no</value>
   <null name="build"/>
   <null name="description"/>
   <value name="created_date">13-05-2026 13:46:01 IST</value>
